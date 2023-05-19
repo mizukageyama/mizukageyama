@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Emmalyn 👋</h1>
-<h3 align="center">Developer from the Philippines</h3>
+<h3 align="center">Developer from the Philippines <img src="https://github.com/mizukageyama/mizukageyama/assets/63276829/eae89be3-763d-483b-82a0-162020d4bce4" alt="philippine_flag" width="20" height="20"/></h3> 
+
+<p>Completed my Bachelor's Degree in Information Technology. I am passionate in improving my skills and excited to learn new technologies. I like working with other people to learn from them, as well as impart my knowledge.</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
