@@ -4,7 +4,7 @@
 
 <p>Completed my Bachelor's Degree in Information Technology. I am passionate in improving my skills and excited to learn new technologies. I like working with other people to learn from them, as well as impart my knowledge.</p>
 
-[![Deviant](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/emmy-chwan)    [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14836107/emmy-chwan)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14836107/emmy-chwan)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
