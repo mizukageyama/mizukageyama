@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Emmalyn 👋</h1>
 <h3 align="center">Developer from the Philippines <img src="https://github.com/mizukageyama/mizukageyama/assets/63276829/eae89be3-763d-483b-82a0-162020d4bce4" alt="philippine_flag" width="20" height="20"/></h3> 
 
-<p>Completed my Bachelor's Degree in Information Technology. I am passionate in improving my skills and excited to learn new technologies. I like working with other people to learn from them, as well as impart my knowledge.</p>
+<p>I am passionate in improving my skills and excited to learn new technologies.</p>
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14836107/emmy-chwan)
 
